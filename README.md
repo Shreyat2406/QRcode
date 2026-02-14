@@ -8,7 +8,9 @@ A simple Python tool to generate QR codes from URLs and save them as images.
 - Works locally on Windows, Mac, or Linux.
 
 ## Screenshots
-![QR Code Example](qrcode.png)
+<img width="579" height="107" alt="image" src="https://github.com/user-attachments/assets/a0709c10-d276-477a-9a25-2cd922c6b64c" />
+<img width="643" height="607" alt="image" src="https://github.com/user-attachments/assets/7fb0ccd2-3646-4e07-a6a3-1255d21e4646" />
+
 
 ## Tech Stack
 - Python 3.x
